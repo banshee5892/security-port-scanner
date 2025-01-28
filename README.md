@@ -13,7 +13,7 @@ To use this script:
 2. Make sure you have nmap installed on your system
 3. Run it with administrator privileges:
 
-powershellCopy.\SecurityScan.ps1 -Target example.com
+Copy.\SecurityScan.ps1 -Target example.com
 
 Important notes:
 
